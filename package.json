@@ -1,0 +1,31 @@
+{
+  "name": "aoi.js-bot-example",
+  "version": "4.6.0",
+  "description": "This is an example bot to start off with Aoi.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byCRXHIT/Aoi.JS-Bot-Example--v4.6.0.git"
+  },
+  "keywords": [
+    "aoi.js",
+    "example",
+    "aoi.js",
+    "bot",
+    "aoi.js",
+    "example",
+    "bot"
+  ],
+  "author": "byCRXHIT",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/byCRXHIT/Aoi.JS-Bot-Example--v4.6.0/issues"
+  },
+  "homepage": "https://github.com/byCRXHIT/Aoi.JS-Bot-Example--v4.6.0#readme",
+  "dependencies": {
+    "aoi.js": "^4.6.0"
+  }
+}

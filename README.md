@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/byCRXHIT/Aoi.JS-Example-Bot--v4.6.0)](https://repl.it/github/byCRXHIT/Aoi.JS-Example-Bot--v4.6.0)
+
 ### How to use:
 
 **First make sure you have NodeJS Version >=14 installed.**
